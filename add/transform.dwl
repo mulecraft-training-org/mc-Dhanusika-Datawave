@@ -1,4 +1,8 @@
 %dw 2.0
 output application/json
+var a = 5
+var b = 10
 ---
-1+2
+{
+  sum: a + b
+}
