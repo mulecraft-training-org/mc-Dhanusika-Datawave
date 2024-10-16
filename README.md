@@ -41,6 +41,12 @@ Click below to try `Greater then or equal` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/greaterthen"><img width="300" src="/image/dwplayground-button.png"></a>
 
+#### lesser then
+Click below to try `lesser then` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/lesserthen"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
