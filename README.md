@@ -1,5 +1,7 @@
 # mc-Dhanusika-Datawave
 
+DataWeave allows users to easily perform a common use case for integration developers: read and parse data from one format, transform it, and write it out as a different format.
+
 ### Addition function
 ##### It helps in adding two integers
 Click below to try `Addition` in DataWeave:
