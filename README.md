@@ -2,6 +2,9 @@
 
 DataWeave allows users to easily perform a common use case for integration developers: read and parse data from one format, transform it, and write it out as a different format.
 
+### Datatypes
+The type system enables you to apply constraints to variables and function parameters. The supported data types include simple types such as 'String', 'Boolean', 'Number', and 'Date', as well as composite and complex types such as 'Array', 'Object', and 'Any'.
+
 ### Addition function
 ##### It helps in adding two integers
 Click below to try `Addition` in DataWeave:
