@@ -2,8 +2,8 @@
 
 DataWeave allows users to easily perform a common use case for integration developers: read and parse data from one format, transform it, and write it out as a different format.
 
-### Datatypes
-The type system enables you to apply constraints to variables and function parameters. The supported data types include simple types such as 'String', 'Boolean', 'Number', and 'Date', as well as composite and complex types such as 'Array', 'Object', and 'Any'.
+## Datatypes
+The type system enables you to apply constraints to variables and function parameters. The supported data types include simple types such as `String`, `Boolean`, `Number`, and `Date`, as well as composite and complex types such as `Array`, `Object`, and `Any`.
 
 ### Addition function
 ##### It helps in adding two integers
@@ -23,7 +23,7 @@ Click below to try `division` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/division"><img width="300" src="/image/dwplayground-button.png"></a>
 
-### logical operators
+## logical operators
 
 | Expression  | Label  |
 |------|------|
