@@ -23,7 +23,7 @@ Click below to try `division` in DataWeave:
 
 Click below to try `Greater then or equal` in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/greaterthen"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
