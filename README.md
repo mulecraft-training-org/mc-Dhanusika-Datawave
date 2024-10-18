@@ -53,6 +53,9 @@ Click below to try `lesser then` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/and"><img width="300" src="/image/dwplayground-button.png"></a>
 
+#### or operator
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/oroperator"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
