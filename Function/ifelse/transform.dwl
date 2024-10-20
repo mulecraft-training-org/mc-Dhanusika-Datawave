@@ -3,6 +3,6 @@ output application/json
 var agelimit=if (payload.age >= 100) "eligible to vote" else "not eligible to vote"
 ---
 {
-  age  : payload.age,
+age  : payload.age,
  agelimit :agelimit
 }
