@@ -57,6 +57,15 @@ Click below to try `lesser then` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/logicalOperators/oroperator"><img width="300" src="/image/dwplayground-button.png"></a>
 
+## if else
+If/else expressions allow you to make decisions using logical operators and branch as a result.
+
+```
+if (<criteria_expression>) <return_if_true> else <return_if_false>
+```
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/ifelse"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
