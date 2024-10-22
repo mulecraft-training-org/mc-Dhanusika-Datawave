@@ -66,6 +66,12 @@ if (<criteria_expression>) <return_if_true> else <return_if_false>
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/ifelse"><img width="300" src="/image/dwplayground-button.png"></a>
 
+## Pattern Matching with Literal Values
+Pattern matching is another method of flow control
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/literalPatternMatching"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
