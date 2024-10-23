@@ -23,6 +23,12 @@ Click below to try `division` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/division"><img width="300" src="/image/dwplayground-button.png"></a>
 
+## variables
+### concat
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/concat"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 ## logical operators
 
 | Expression  | Label  |
