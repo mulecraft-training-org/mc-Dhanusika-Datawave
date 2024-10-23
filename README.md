@@ -85,6 +85,11 @@ Pattern matching is another method of flow control
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/literalPatternMatching"><img width="300" src="/image/dwplayground-button.png"></a>
 
+## string functions
+
+### length of the string
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/stringFunctions/lengthOfTheString"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
