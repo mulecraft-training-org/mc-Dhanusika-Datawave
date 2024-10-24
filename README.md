@@ -90,6 +90,13 @@ Pattern matching is another method of flow control
 ### length of the string
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/stringFunctions/lengthOfTheString"><img width="300" src="/image/dwplayground-button.png"></a>
 
+## variables
+### concat two strings
+Click below to try `concat` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/concat"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
