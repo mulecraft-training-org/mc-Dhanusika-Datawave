@@ -2,5 +2,5 @@
 output application/json
 ---
 {
-  "a": sizeOf(payload.title)
+  "a": isAlpha(payload.a)
 }
