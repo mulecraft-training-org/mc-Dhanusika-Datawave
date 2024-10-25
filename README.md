@@ -109,6 +109,9 @@ Click below to try `contains` in DataWeave:
 ### endsWith
 Click below to try `endswith` in DataWeave:
 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/endsWith"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
