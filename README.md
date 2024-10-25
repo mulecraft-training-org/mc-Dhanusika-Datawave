@@ -96,6 +96,11 @@ Click below to try `concat` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/concat"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### index of
+Click below to try `indexOf` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/indexOf"><img width="300" src="/image/dwplayground-button.png"></a>
+
 ### contains
 Click below to try `contains` in DataWeave:
 
