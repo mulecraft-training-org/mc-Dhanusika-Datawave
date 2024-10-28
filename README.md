@@ -90,6 +90,20 @@ Pattern matching is another method of flow control
 ### length of the string
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/stringFunctions/lengthOfTheString"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### upper
+
+Click below to try `upper` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/upper"><img width="300" src="/image/dwplayground-button.png"></a>
+
+### lower
+
+Click below to try `lower` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/stringFunctions/lower"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
 ## variables
 ### concat two strings
 Click below to try `concat` in DataWeave:
@@ -117,11 +131,7 @@ Click below to try `find` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/find"><img width="300" src="/image/dwplayground-button.png"></a>
 
-### upper
 
-Click below to try `upper` in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/upper"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
