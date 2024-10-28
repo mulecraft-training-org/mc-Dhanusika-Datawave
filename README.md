@@ -117,6 +117,12 @@ Click below to try `find` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/find"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### upper
+
+Click below to try `upper` in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-Dhanusika-Datawave&path=Function/variable/upper"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
