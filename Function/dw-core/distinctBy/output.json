@@ -1,0 +1,13 @@
+{
+  "movie": {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "releaseYear": "2001",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley",
+      "Albus Dumbledore",
+      "Hagrid"
+    ]
+  }
+}
