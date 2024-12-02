@@ -151,7 +151,7 @@ Iterates over an array and returns the unique elements in it.
 
 Click below to try `distinctBy` in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/endsWith"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/distinctBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
