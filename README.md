@@ -153,6 +153,14 @@ Click below to try `distinctBy` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/distinctBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### filter
+
+Iterates over a string and applies an expression that returns matching values.
+
+The expression must return true or false. If the expression returns `true` for a character or index in the array, the character gets captured in the output string. If it returns `false` for a character or index in the array, that character gets filtered out of the output. If there are no matches, the output string will be empty.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/filter"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
