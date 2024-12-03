@@ -137,7 +137,7 @@ Click below to try `valuesOf` in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/variable/valuesOf"><img width="300" src="/image/dwplayground-button.png"></a>
 
-## Dw-core
+# Dw-core
 ### endsWith
 Returns `true` if a string ends with a provided substring, `false` if not.
 
@@ -161,7 +161,13 @@ The expression must return true or false. If the expression returns `true` for a
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/filter"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### filterObject
 
+Iterates a list of key-value pairs in an object and applies an expression that returns only matching objects, filtering out the rest from the output.
+
+The expression must return `true` or `false`. If the expression returns `true` for a key, value, or index of an object, the object gets captured in the output. If it returns `false` for any of them, the object gets filtered out of the output. If there are no matches, the output array will be empty.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/filterObject"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
