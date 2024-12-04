@@ -174,7 +174,7 @@ The expression must return `true` or `false`. If the expression returns `true` f
 Returns the lowest Comparable value in an array.
 The items must be of the same type or min throws an error. The function returns null if the array is empty.
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/min"><img width="300" src="/image/dwplayground-button.png"></a>
+ <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/min"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
