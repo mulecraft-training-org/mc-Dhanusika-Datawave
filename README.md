@@ -181,6 +181,9 @@ The items must be of the same type or min throws an error. The function returns 
 Turns a set of subarrays (such as [ [1,2,3], [4,5,[6]], [], [null] ]) into a single, flattened array (such as [ 1, 2, 3, 4, 5, [6], null ]).
 Note that it flattens only the first level of subarrays and omits empty subarrays.
 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/flatten"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
