@@ -190,6 +190,14 @@ The items must be of the same type, or the function throws an error. The functio
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/max"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### flatMap
+
+Iterates over each item in an array and `flattens` the results.
+Instead of returning an array of arrays (as map does when you iterate over the values within an input like `[ [1,2], [3,4] ])`, flatMap returns a flattened array that looks like this: `[1, 2, 3, 4]`. flatMap is similar to flatten, but flatten only acts on the values of the arrays, while flatMap can act on values and indices of items in the array.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/flatMap"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
