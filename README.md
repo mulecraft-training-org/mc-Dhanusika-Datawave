@@ -183,6 +183,15 @@ Note that it flattens only the first level of subarrays and omits empty subarray
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/flatten"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### max
+
+Returns the `highest` Comparable value in an array.
+The items must be of the same type, or the function throws an error. The function returns `null` if the array is `empty`.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/max"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
 
 
 
