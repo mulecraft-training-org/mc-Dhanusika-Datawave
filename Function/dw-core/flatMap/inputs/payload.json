@@ -1,0 +1,5 @@
+[
+  { "name": "Alice", "subjects": ["Math", "Science"] },
+  { "name": "Bob", "subjects": ["History", "Geography"] },
+  { "name": "Charlie", "subjects": ["Physics", "Chemistry"] }
+]
