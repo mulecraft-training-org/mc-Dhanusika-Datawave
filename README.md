@@ -199,6 +199,7 @@ Instead of returning an array of arrays (as map does when you iterate over the v
 
 ### to
 to(from: Number, to: Number): Range
+
 Returns a range with the specified boundaries.
 The upper boundary is inclusive.
 
