@@ -205,6 +205,11 @@ The upper boundary is inclusive.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/to"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### sqrt 
+
+Returns the square root of a number.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/to"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
