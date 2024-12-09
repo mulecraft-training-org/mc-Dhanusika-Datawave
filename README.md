@@ -197,6 +197,14 @@ Instead of returning an array of arrays (as map does when you iterate over the v
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/flatMap"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### to
+to(from: Number, to: Number): Range
+Returns a range with the specified boundaries.
+The upper boundary is inclusive.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/to"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
 
 
 
