@@ -209,7 +209,11 @@ The upper boundary is inclusive.
 
 Returns the square root of a number.
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/sqrt"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/sqrt"><img width="300" src="/image/dwplayground-button.png"></a> 
+
+### task 
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/task1"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
