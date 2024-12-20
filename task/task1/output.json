@@ -1,0 +1,50 @@
+{
+  "topProduct": {
+    "id": 5,
+    "name": "elderberry",
+    "totalRevenue": 164
+  },
+  "uniquePrice": [
+    20.5,
+    10.5,
+    15
+  ],
+  "endsWithE": [
+    "apple",
+    "date"
+  ],
+  "discountedPrices": [
+    {
+      "id": 1,
+      "name": "apple",
+      "price": 17.425
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "price": 8.925
+    },
+    {
+      "id": 3,
+      "name": "carrot",
+      "price": 12.75
+    },
+    {
+      "id": 4,
+      "name": "date",
+      "price": 8.925
+    },
+    {
+      "id": 5,
+      "name": "elderberry",
+      "price": 17.425
+    }
+  ],
+  "squareRoot": [
+    4.527692569068709,
+    3.24037034920393,
+    3.872983346207417,
+    3.24037034920393,
+    4.527692569068709
+  ]
+}
