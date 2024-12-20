@@ -1,0 +1,19 @@
+{
+  "products": [
+    { "id": 1, "name": "apple", "price": 20.5 },
+    { "id": 2, "name": "banana", "price": 10.5 },
+    { "id": 3, "name": "carrot", "price": 15.0 },
+    { "id": 4, "name": "date", "price": 10.5 },
+    { "id": 5, "name": "elderberry", "price": 20.5 }
+  ],
+  "sales": [
+    { "productId": 1, "quantity": 5 },
+    { "productId": 2, "quantity": 0 },
+    { "productId": 3, "quantity": 10 },
+    { "productId": 4, "quantity": 0 },
+    { "productId": 5, "quantity": 8 }
+  ],
+  "metadata": {
+    "discountRate": 0.15
+  }
+}
