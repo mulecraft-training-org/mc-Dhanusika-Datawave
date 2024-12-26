@@ -216,10 +216,19 @@ Returns the square root of a number.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/task1"><img width="300" src="/image/dwplayground-button.png"></a>
 
+# week 2
+
 ### abs
 Returns the absolute value of a number.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/abs"><img width="300" src="/image/dwplayground-button.png"></a> 
+
+### ceil
+
+This example rounds numbers up to the nearest whole numbers. Notice that 2.1 rounds up to 3.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/ceil"><img width="300" src="/image/dwplayground-button.png"></a> 
+
 
 
 
