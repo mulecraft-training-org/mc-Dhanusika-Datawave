@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Arun",
+    "lastName": "prasnd",
+    "department": "Engineering",
+    "salary": 75000
+  },
+  {
+    "firstName": "kavith",
+    "lastName": "manisa",
+    "department": "Marketing",
+    "salary": 45000
+  },
+  {
+    "firstName": "virat",
+    "lastName": "sharma",
+    "department": "science",
+    "salary": 120000
+  }
+]
