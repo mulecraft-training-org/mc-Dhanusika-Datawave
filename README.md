@@ -237,6 +237,14 @@ An array that is empty or that contains a non-numeric value results in an error.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/avg"><img width="300" src="/image/dwplayground-button.png"></a> 
 
+### map
+
+Iterates over items in an array and outputs the results into a new array.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/map"><img width="300" src="/image/dwplayground-button.png"></a> 
+
+
+
 
 
 
