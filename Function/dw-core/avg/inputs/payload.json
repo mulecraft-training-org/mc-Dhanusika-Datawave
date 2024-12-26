@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice",
+    "scores": {
+      "Mathematics": 85,
+      "Science": 90,
+      "English": 78
+    }
+  },
+  {
+    "name": "Bob",
+    "scores": {
+      "Mathematics": 75,
+      "Science": 80,
+      "English": 82
+    }
+  },
+  {
+    "name": "Charlie",
+    "scores": {
+      "Mathematics": 95,
+      "Science": 88,
+      "English": 91
+    }
+  }
+]
