@@ -235,7 +235,7 @@ This example rounds numbers up to the nearest whole numbers. Notice that 2.1 rou
 Returns the average of numbers listed in an array.
 An array that is empty or that contains a non-numeric value results in an error.
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/ceil"><img width="300" src="/image/dwplayground-button.png"></a> 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/avg"><img width="300" src="/image/dwplayground-button.png"></a> 
 
 
 
