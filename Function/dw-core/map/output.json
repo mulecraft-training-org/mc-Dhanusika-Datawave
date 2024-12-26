@@ -1,0 +1,17 @@
+[
+  {
+    "fullName": "Arunprasnd",
+    "department": "Engineering",
+    "salaryRange": "Medium"
+  },
+  {
+    "fullName": "kavithmanisa",
+    "department": "Marketing",
+    "salaryRange": "Low"
+  },
+  {
+    "fullName": "viratsharma",
+    "department": "science",
+    "salaryRange": "High"
+  }
+]
