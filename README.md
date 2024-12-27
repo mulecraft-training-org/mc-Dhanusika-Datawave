@@ -255,6 +255,13 @@ Removes any blank spaces from the beginning and end of a string.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/trim"><img width="300" src="/image/dwplayground-button.png"></a> 
 
+### maxBy
+
+iterates over an array and returns the highest value of `Comparable` elements from it.
+The `items must be of the same type`. maxBy throws an `error if they are not`, and the function returns `null if the array is empty`.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/maxBy"><img width="300" src="/image/dwplayground-button.png"></a> 
+
 
 
 
