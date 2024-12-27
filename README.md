@@ -249,6 +249,15 @@ Returns the provided string in uppercase characters.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/upper"><img width="300" src="/image/dwplayground-button.png"></a> 
 
+### trim
+
+Removes any blank spaces from the beginning and end of a string.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/trim"><img width="300" src="/image/dwplayground-button.png"></a> 
+
+
+
+
 
 
 
