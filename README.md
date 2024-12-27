@@ -243,6 +243,15 @@ Iterates over items in an array and outputs the results into a new array.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/map"><img width="300" src="/image/dwplayground-button.png"></a> 
 
+### upper
+
+Returns the provided string in uppercase characters.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/upper"><img width="300" src="/image/dwplayground-button.png"></a> 
+
+
+
+
 
 
 
