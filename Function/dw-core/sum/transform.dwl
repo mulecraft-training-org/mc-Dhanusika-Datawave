@@ -2,4 +2,4 @@
 output application/json
 ---
 
-sum(payload )
+sum(payload.age)
