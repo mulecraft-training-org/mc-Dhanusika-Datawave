@@ -290,6 +290,12 @@ Note that `joinBy` performs the opposite task of `splitBy`.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/joinBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### typeOf
+
+Returns the primitive data type of a value, such as String.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/typeOf"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
