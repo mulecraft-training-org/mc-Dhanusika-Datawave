@@ -266,7 +266,16 @@ The `items must be of the same type`. maxBy throws an `error if they are not`, a
 
 Rounds a number up or down to the nearest whole number.
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/round"><img width="300" src="/image/dwplayground-button.png"></
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/round"><img width="300" src="/image/dwplayground-button.png"></a>
+
+### orderBy
+
+Reorders the elements of an input using criteria that acts on selected elements of that input.
+This version of orderBy takes an object as input. Other versions act on an input array or handle a null value.
+Note that you can reference the index with the anonymous parameter `$$` and the value with `$`.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/orderBy"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
