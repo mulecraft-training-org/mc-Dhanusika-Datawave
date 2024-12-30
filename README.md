@@ -276,6 +276,17 @@ Note that you can reference the index with the anonymous parameter `$$` and the 
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/orderBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### sum
+
+Returns the sum of numeric values in an array.
+Returns 0 if the array is empty and produces an error when non-numeric values are in the array.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/sum"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
+
+
 
 
 
