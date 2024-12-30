@@ -262,6 +262,14 @@ The `items must be of the same type`. maxBy throws an `error if they are not`, a
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/maxBy"><img width="300" src="/image/dwplayground-button.png"></a> 
 
+### round
+
+Rounds a number up or down to the nearest whole number.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/round"><img width="300" src="/image/dwplayground-button.png"></
+
+
+
 
 
 
