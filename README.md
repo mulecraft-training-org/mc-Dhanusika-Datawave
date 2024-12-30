@@ -283,6 +283,12 @@ Returns 0 if the array is empty and produces an error when non-numeric values ar
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/sum"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### joinBy
+
+Merges an array into a single string value and uses the provided string as a separator between each item in the list.
+Note that `joinBy` performs the opposite task of `splitBy`.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/joinBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
