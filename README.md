@@ -303,6 +303,14 @@ The items need to be of the same type. minBy returns an error if they are not, a
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/minBy"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### mod
+
+Returns the modulo (the remainder after dividing the dividend by the divisor).
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/mod"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
 
 
 
