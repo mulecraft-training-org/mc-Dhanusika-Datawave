@@ -309,6 +309,14 @@ Returns the modulo (the remainder after dividing the dividend by the divisor).
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/mod"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### floor
+
+This example rounds numbers down to the nearest whole numbers. Notice that 1.5 rounds down to 1.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/floor"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
 
 
 
