@@ -2,4 +2,4 @@
 output application/json
 ---
 
-    "Expensive" : minBy(payload.products,(p)-> p.price)
+    "lessExpensive" : minBy(payload.products,(p)-> p.price)
