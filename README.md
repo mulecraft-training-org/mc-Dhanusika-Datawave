@@ -296,6 +296,13 @@ Returns the primitive data type of a value, such as String.
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/typeOf"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### minBy
+
+Iterates over an array to return the lowest value of comparable elements from it.
+The items need to be of the same type. minBy returns an error if they are not, and it returns null when the array is empty.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/minBy"><img width="300" src="/image/dwplayground-button.png"></a>
+
 
 
 
