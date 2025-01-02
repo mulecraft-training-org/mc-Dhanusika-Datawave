@@ -315,6 +315,17 @@ This example rounds numbers down to the nearest whole numbers. Notice that 1.5 r
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/floor"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### lastIndexOf
+
+Returns the index of the last occurrence of the specified element in a given array or -1 if the array does not contain the element.
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/lastIndexOf"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
+
+
+
 
 
 
