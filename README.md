@@ -323,19 +323,19 @@ Returns the index of the last occurrence of the specified element in a given arr
 
 # task-1
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint 2/task1"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint2/task1"><img width="300" src="/image/dwplayground-button.png"></a>
 
 # task-2
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint 2/task 2"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint2/task2"><img width="300" src="/image/dwplayground-button.png"></a>
 
 # task-3
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint 2/task 3"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint2/task3"><img width="300" src="/image/dwplayground-button.png"></a>
 
 # task-4
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint 2/task 4"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint2/task4"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
