@@ -1,9 +1,0 @@
-{
-  "totalConsumption": 7500,
-  "minConsumptionType": "wind",
-  "sortedConsumption": [
-    "wind",
-    "solar",
-    "coal"
-  ]
-}
