@@ -323,7 +323,7 @@ Returns the index of the last occurrence of the specified element in a given arr
 
 # task 
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/task1"><img width="300" src="/image/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint 2/task1"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
