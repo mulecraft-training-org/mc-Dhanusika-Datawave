@@ -21,7 +21,7 @@ output application/json
 ---
 {
    "totalConsumption": sum(payload.energyConsumption.consumption),
-   "minConsumptionType" :  (payload.energyConsumption maxBy ((item) -> item."type"))."type",
+   "minConsumptionType" :  (payload.energyConsumption minBy ((item) -> item.consumption))."type",
    "sortedConsumption": (payload.energyConsumption orderBy ((item) -> item.consumption ))."type"
 
 }
