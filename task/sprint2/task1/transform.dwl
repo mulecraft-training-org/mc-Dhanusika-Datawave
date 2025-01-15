@@ -9,7 +9,7 @@ output application/json
  * Create a new structure that includes the transformed name, age, premium, and average premium
  *
  * Expected Output:
- * [  {    "policyholderName": "JOHN DOE",    "age": 30,    "premium": 1201,    "averagePremium": 1220  },  {    "policyholderName": "JANE SMITH",    "age": 25,    "premium": 951,    "averagePremium": 1220  },  {    "policyholderName": "ALICE JOHNSON",    "age": 35,    "premium": 1500,    "averagePremium": 1220  }]
+ * [  {    "policyholderName": "JOHN DOE",    "age": 30,    "premium": 1201,    "averagePremium": 1217  },  {    "policyholderName": "JANE SMITH",    "age": 25,    "premium": 951,    "averagePremium": 1217  },  {    "policyholderName": "ALICE JOHNSON",    "age": 35,    "premium": 1500,    "averagePremium": 1217  }]
  */
 ---
 payload.policyholders map ((item) -> {
