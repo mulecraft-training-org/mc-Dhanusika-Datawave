@@ -9,7 +9,7 @@ output application/json
  *
  * Expected Output:
  * {
- *   "averagePrice": 1917.83,
+ *   "averagePrice": 2117.16,
  *   "highestVolumeSymbol": "AAPL",
  *   "priceSymbols": [
  *     "AAPL",
