@@ -1,1 +1,6 @@
-
+{
+  "decimal": false,
+  "zero": true,
+  "positive": true,
+  "negative": true
+}
