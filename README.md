@@ -338,6 +338,15 @@ Returns the index of the last occurrence of the specified element in a given arr
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint2/task4"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
+# sprint 3
+
+### random
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/random"><img width="300" src="/image/dwplayground-button.png"></a>
+
+
+
+
 
 
 
