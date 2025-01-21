@@ -392,6 +392,9 @@ Returns the index of the last occurrence of the specified element in a given arr
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/typeOf"><img width="300" src="/image/dwplayground-button.png"></a>
 
+### valuesOf
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=Function/dw-core/valuesOf"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
