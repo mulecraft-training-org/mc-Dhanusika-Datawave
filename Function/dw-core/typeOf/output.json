@@ -1,1 +1,7 @@
-"Array"
+{
+  "ex1": "String",
+  "ex2": "Number",
+  "ex3": "Boolean",
+  "ex4": "Object",
+  "ex5": "Array"
+}
