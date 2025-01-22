@@ -408,9 +408,9 @@ Returns the index of the last occurrence of the specified element in a given arr
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint3/task2"><img width="300" src="/image/dwplayground-button.png"></a>
 
+# task-3
 
-
-
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-Dhanusika-Datawave&path=task/sprint3/task3"><img width="300" src="/image/dwplayground-button.png"></a>
 
 
 
